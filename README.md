@@ -1,14 +1,10 @@
 # Introduction to research methods, week 5 :page_with_curl:
 ## Eva Dyadko
 
-In this Github there is a shell script, named *...*, that counts all occurrences of the article ***"de"*** in the [Dutch Wikipedia page of the Rijksuniveristeit Groningen](https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
+In this Github there is a shell script, named *count_de.sh*, that counts all occurrences of the article ***"de"*** in the [Dutch Wikipedia page of the Rijksuniveristeit Groningen](https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
 
 
-how to use it
-what isit for? 
-what an external user can find in it? 
-what are the results
-document your data (how can the data be accessed? are you storing an offline version of the page or not?)
+are you storing an offline version of the page or not?)
 
 ## Getting started
 ### Download repository:
@@ -24,5 +20,7 @@ After downloading the script, you can now run it as:
 Where ```FILE``` is the text file you want to use.
 
 ## Results
-When running the name.sh script on the rug.txt, the result is that there are ... occurences of the article 'de'.
+When running the count_de.sh script on the RUGWIKI.txt, the result is that there are 282 occurences of the article 'de'. 
+The offline version of the page is not automatically stored.
+
 
