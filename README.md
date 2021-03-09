@@ -16,3 +16,10 @@ Click on 'code' and download as zip
 ### Clone repository:
 Type ```git clone``` and paste the URL of this repository:
 ```git clone https://github.com/evadyadko/IWO_week5```
+
+## Usage
+After downloading the script, you can now run it:
+```./name.sh FILE``` or ```sh name.sh FILE```
+
+Where ```FILE``` is the text you want to use.
+
