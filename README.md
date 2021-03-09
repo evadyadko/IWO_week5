@@ -14,5 +14,9 @@ document your data (how can the data be accessed? are you storing an offline ver
 ### Download repository:
 Click on 'code' and download as zip
 ### Clone repository:
-Type ***git clone*** and paste the URL of this repository:
-git clone https://github.com/evadyadko/IWO_week5
+Type 
+
+
+```
+***git clone*** and paste the URL of this repository:
+git clone https://github.com/evadyadko/IWO_week5```
