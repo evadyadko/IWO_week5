@@ -5,7 +5,7 @@ file=$1
 
 count_de () (
 	echo 'Amount that de has occured: '
-	cat $file | grep -Eo '\w+' | tr '[:upper:]' '[:lower:]' | grep -iw "de" | wc -w
+	cat $file | tr '[:upper:]' '[:lower:]' | grep -Eo '\w+' | grep -iw "de" | wc -w
 )
 
 
