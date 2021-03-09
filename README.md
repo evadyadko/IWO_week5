@@ -18,8 +18,8 @@ Type ```git clone``` and paste the URL of this repository:
 ```git clone https://github.com/evadyadko/IWO_week5```
 
 ## Usage
-After downloading the script, you can now run it:
-```./name.sh FILE``` or ```sh name.sh FILE```
+After downloading the script, you can now run it as:
+```./name.sh FILE``` or as ```sh name.sh FILE```
 
 Where ```FILE``` is the text you want to use.
 
