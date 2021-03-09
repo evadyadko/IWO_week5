@@ -21,5 +21,8 @@ Type ```git clone``` and paste the URL of this repository:
 After downloading the script, you can now run it as:
 ```./name.sh FILE``` or as ```sh name.sh FILE```
 
-Where ```FILE``` is the text you want to use.
+Where ```FILE``` is the text file you want to use.
+
+## Results
+When running the name.sh script on the rug.txt, the result is that there are ... occurences of the article 'de'.
 
