@@ -4,8 +4,6 @@
 In this Github there is a shell script, named *count_de.sh*, that counts all occurrences of the article ***"de"*** in the [Dutch Wikipedia page of the Rijksuniveristeit Groningen](https://nl.wikipedia.org/wiki/Rijksuniversiteit_Groningen).
 
 
-are you storing an offline version of the page or not?)
-
 ## Getting started
 ### Download repository:
 Click on 'code' and download as zip
